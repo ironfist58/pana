@@ -1,2 +1,2 @@
 # panascalulators
-I Zachary Radcliffe develope calulators
+I Zachary Radcliffe develope calulators.
